@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="331c5bb4-332a-4b19-9146-cb9c83f3f5b7" name="Changes" comment="" />
+    <list default="true" id="331c5bb4-332a-4b19-9146-cb9c83f3f5b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio1" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio1/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +45,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -61,6 +67,9 @@
       <updated>1736594574039</updated>
       <workItem from="1736594575107" duration="5127000" />
       <workItem from="1737173741429" duration="66000" />
+      <workItem from="1737308980828" duration="4350000" />
+      <workItem from="1737342461718" duration="45000" />
+      <workItem from="1738730866531" duration="1364000" />
     </task>
     <servers />
   </component>
